@@ -4,7 +4,11 @@ import "./Login.css";
 function Login() {
   return (
     <div className="login">
-      <h1>This is the login</h1>
+      <img
+        src="https://2672686a4cf38e8c2458-2712e00ea34e3076747650c92426bbb5.ssl.cf1.rackcdn.com/2019-02-06-06-11-02.png"
+        alt=""
+      />
+      <a>LOGIN WITH SPOTIFY</a>
     </div>
   );
 }
